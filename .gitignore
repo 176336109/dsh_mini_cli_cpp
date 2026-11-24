@@ -1,0 +1,5 @@
+/build*/
+/out/
+/.dsh-mini/
+/CMakeUserPresets.json
+__pycache__/
